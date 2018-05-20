@@ -1,0 +1,22 @@
+{
+  "name": "trackings",
+  "version": "0.1.0",
+  "description": "Tracking snippets for Google Analytics and Piwik / Matamo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hay/trackings.git"
+  },
+  "keywords": [
+    "tracking",
+    "analytics",
+    "google-analytics",
+    "piwik"
+  ],
+  "author": "Hay Kranen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hay/trackings/issues"
+  },
+  "homepage": "https://github.com/hay/trackings"
+}

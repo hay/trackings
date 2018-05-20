@@ -1,7 +1,7 @@
 {
   "name": "trackings",
-  "version": "0.1.0",
-  "description": "Tracking snippets for Google Analytics and Piwik / Matamo",
+  "version": "0.1.1",
+  "description": "Tracking snippets for Google Analytics and Piwik / Matomo",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -11,7 +11,8 @@
     "tracking",
     "analytics",
     "google-analytics",
-    "piwik"
+    "piwik",
+    "matomo"
   ],
   "author": "Hay Kranen",
   "license": "MIT",

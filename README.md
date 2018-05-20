@@ -1,7 +1,7 @@
 # trackings
-> Tracking snippets for Google Analytics and Piwik / Matamo
+> Tracking snippets for Google Analytics and Piwik / Matomo
 
-Instead of adding the Google Analytics and Matamo / Piwik snippets to all your html pages, you can just use this library to include them in your Javascript code.
+Instead of adding the Google Analytics and Matomo / Piwik snippets to all your html pages, you can just use this library to include them in your Javascript code.
 
 ## Install
 Using `npm`:
